@@ -7,7 +7,7 @@ Link to frontend repo: https://github.com/kylegould36/todo-frontend.git
 This is a very simple Todo List made with: Express, React, and MongoDB
 
 <p align="center">
-  <img src="todo.png" width="350" title="hover text">
+  <img src="todo.png" width="350">
 </p>
 
 
